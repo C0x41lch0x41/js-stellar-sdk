@@ -112,6 +112,7 @@
     "ghooks": "^2.0.4",
     "husky": "^8.0.3",
     "jsdoc": "^4.0.2",
+    "js-xdr": "^2.0.0",
     "karma": "^6.4.1",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^3.1.0",
